@@ -13,7 +13,7 @@ This challenge was preparatory to development of a Gym application.
   
  Babel, Webpack 
 
- ## Javascript Project:
+## Javascript Project:
  
  React.js
 
