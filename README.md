@@ -1,7 +1,7 @@
 # React-Challenge-Rocketseat
 Rocketseat Bootcamp 9 Challenge Four
 
-### Tela da aplicação
+### App Screen
 
 ![Facebook](https://github.com/keepact/React-Challenge-Rocketseat/blob/master/src/assets/screen.png)
 
