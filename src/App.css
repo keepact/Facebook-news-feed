@@ -1,0 +1,129 @@
+body {
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  background-color: #F2F2F2;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 1024px;
+}
+
+.post-list {
+  position: relative;
+  max-width: 720px;
+  height: auto;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  box-sizing: border-box;
+}
+
+.post-content {
+  background-color: white;
+  box-shadow: 10px 10px 50px 1px rgba(0,0,0,.2);
+  width: 700px;
+  margin-bottom: 20px;
+  height: 250px;
+  left: 162px;
+  top: 84px;
+}
+
+.post-content-wrapper {
+  display: inline-flex;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.posts-data {
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.post-content-wrapper img {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+}
+
+.post-content-text {
+  margin-left: 20px;
+  width: 660px;
+  height: 22px;
+  top: 151px;
+
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+/* identical to box height, or 157% */
+  color: #3E3E3E;
+}
+
+
+.post-comments {
+  display: inline-flex;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.post-comments img {
+  width: 32px;
+  height: 32px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+}
+
+.author {
+  font-weight: 700;
+  color: black;
+}
+
+.date {
+  color: #9A9A9A;
+  font-size: 11px;
+  line-height: 13px;
+}
+
+.home {
+  font-size: 14px;
+  position: absolute;
+  right: 100px;
+  top: 25px;
+}
+
+.header-wrapper img {
+  position: absolute;
+  right: 60px;
+  top: 15px;
+}
+
+.header-wrapper svg {
+  margin-top: 12px;
+  margin-left: 50px;
+}
+
+.header {
+  background: #4A90E2;  
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.comment-data {
+  background: #EEEEEE;
+  border-radius: 20px;
+  width: 600px;
+  height: 100px;
+  margin-left: 20px;
+}
+
+.comment-data p {
+  margin-left: 20px;
+  margin-right: 20px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
