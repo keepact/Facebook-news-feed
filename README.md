@@ -1,27 +1,28 @@
 # React-Challenge-Rocketseat
-Rocketseat Bootcamp 9 Challenge Four
+
+Application developed during Rocketseat Bootcamp 9
 
 ### App Screen
 
 ![Facebook](https://github.com/keepact/React-Challenge-Rocketseat/blob/master/src/assets/screen.png)
 
-## React Project
+## What is this application about?
 
-This challenge was preparatory to development of a Gym application.
+It is a static page. There are only one screens.
 
 ## libs used:
   
- Babel, Webpack 
+ Babel, Webpack and prop-types
 
 ## Javascript Project:
  
- React.js
+ ReactJS
 
 ## Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn install`
 
 Runs the app in the development mode.<br />
 
