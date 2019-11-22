@@ -30,5 +30,4 @@ You will see any errors in the console.
 
 ## Learn More
 
-To learn React, check out the [Bootcamp documentation](https://rocketseat.com.br).<br />
-To see the Challange, check out the [Challange documentation](https://github.com/Rocketseat/bootcamp-gostack-desafio-04).
+Doubts? Contact the developer. check out the [Dev Profile](https://github.com/keepact).<br />
