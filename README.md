@@ -8,7 +8,7 @@ Application developed during Rocketseat Bootcamp 9
 
 ## What is this application about?
 
-It is a static page. There are only one screens.
+It is a static page. There are only one screen.
 
 ## libs used:
   
