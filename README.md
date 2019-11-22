@@ -1,4 +1,4 @@
-# React-Challenge-Rocketseat
+# Facebook-news-feed
 
 Application developed during Rocketseat Bootcamp 9
 
